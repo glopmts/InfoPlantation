@@ -1,0 +1,8 @@
+C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\obj\Debug\net6.0\InfoPlantation.csproj.AssemblyReference.cache
+C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\obj\Debug\net6.0\InfoPlantation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\obj\Debug\net6.0\InfoPlantation.AssemblyInfoInputs.cache
+C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\obj\Debug\net6.0\InfoPlantation.AssemblyInfo.cs
+C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\obj\Debug\net6.0\InfoPlantation.csproj.CoreCompileInputs.cache
+C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\bin\Debug\net6.0\InfoPlantation.deps.json
+C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\bin\Debug\net6.0\InfoPlantation.dll
+C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\obj\Debug\net6.0\InfoPlantation.dll

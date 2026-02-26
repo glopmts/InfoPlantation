@@ -1,0 +1,11 @@
+{
+  "crop.dead": "💀 Planta morta",
+  "crop.ready": "✅ {{name}}\nPronto para colher!",
+  "crop.ready.regrow": "✅ {{name}}\nPronto para colher!\n(Regenera a cada {{days}} dia(s))",
+  "crop.info": "🌱 {{name}}\nFase: {{phase}} ({{current}}/{{total}})\nDias restantes nesta fase: {{daysPhase}}\nTotal para crescer: {{daysTotal}} dia(s)",
+  "crop.info.regrow": "\n(Regenera a cada {{days}} dia(s) após 1ª colheita)",
+  "phase.seed": "Semente",
+  "phase.sprout": "Broto",
+  "phase.growing": "Crescendo",
+  "phase.almost": "Quase pronto"
+}

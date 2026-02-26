@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>InfoPlantation</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GamePath>C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley</GamePath>
+    <EnableHarmony>false</EnableHarmony>
+    <ModOutputPath>$(GamePath)\Mods\InfoPlantation</ModOutputPath>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.4.0" />
+  </ItemGroup>
+
+  <!-- Copia automaticamente a DLL para a pasta Mods -->
+  <Target Name="CopyMod" AfterTargets="Build">
+    <Copy SourceFiles="$(TargetDir)$(ProjectName).dll" 
+          DestinationFolder="$(GamePath)\Mods\$(ProjectName)" />
+    <Copy SourceFiles="$(TargetDir)$(ProjectName).pdb" 
+          DestinationFolder="$(GamePath)\Mods\$(ProjectName)" 
+          Condition="Exists('$(TargetDir)$(ProjectName).pdb')" />
+  </Target>
+</Project>

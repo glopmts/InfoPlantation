@@ -1,0 +1,11 @@
+{
+  "crop.dead": "💀 Dead plant",
+  "crop.ready": "✅ {{name}}\nReady to harvest!",
+  "crop.ready.regrow": "✅ {{name}}\nReady to harvest!\n(Regrows every {{days}} day(s))",
+  "crop.info": "🌱 {{name}}\nPhase: {{phase}} ({{current}}/{{total}})\nDays left in phase: {{daysPhase}}\nTotal to grow: {{daysTotal}} day(s)",
+  "crop.info.regrow": "\n(Regrows every {{days}} day(s) after 1st harvest)",
+  "phase.seed": "Seed",
+  "phase.sprout": "Sprout",
+  "phase.growing": "Growing",
+  "phase.almost": "Almost ready"
+}
