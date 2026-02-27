@@ -6,3 +6,4 @@ C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\obj\Debug\net
 C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\bin\Debug\net6.0\InfoPlantation.deps.json
 C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\bin\Debug\net6.0\InfoPlantation.dll
 C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\obj\Debug\net6.0\InfoPlantation.dll
+C:\Users\aubec\Downloads\matias\mods\stardew-valley\InfoPlantation\obj\Debug\net6.0\InfoPlantation.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfoPlantation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67bc0e60a008058e804223135b2bcb52667e08aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfoPlantation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfoPlantation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

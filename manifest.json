@@ -1,10 +1,18 @@
 {
-  "Name": "Growth Info Mod",
+  "Name": "InfoPlantation",
   "Author": "Matias",
   "Version": "1.0.0",
   "Description": "Mostra informações de crescimento das plantações ao passar o mouse.",
   "UniqueID": "Matias.InfoPlantation",
   "EntryDll": "InfoPlantation.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": []
+  "UpdateKeys": [
+    "Nexus:InfoPlantation"
+  ],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
 }
